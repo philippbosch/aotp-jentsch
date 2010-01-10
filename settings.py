@@ -93,7 +93,6 @@ INSTALLED_APPS = (
     
     # 3rd party tools
     'south',
-    'compressor',
     
     # custom apps
     'music',
